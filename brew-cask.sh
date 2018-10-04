@@ -8,7 +8,6 @@
 # Install native apps
 
 brew install caskroom/cask/brew-cask
-brew tap caskroom/versions
 
 # daily
 brew cask install spectacle
@@ -32,7 +31,6 @@ brew cask install firefox
 # less often
 brew cask install spotify
 brew cask install handbrake
-brew cask install google-photos-backup
 brew cask install macdown
 brew cask install adobe-photoshop-cc
 brew cask install disk-inventory-x
@@ -42,6 +40,5 @@ brew cask install garmin-express
 # work
 brew cask install slack
 brew cask install virtualbox
-brew cask install screenhero
 brew cask install zoomus
 brew cask install lastpass
